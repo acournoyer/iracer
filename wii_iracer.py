@@ -13,6 +13,20 @@
 # One other cool thing this python script didn't have to know anything about bluetooth
 
 # Scoutmaster Lumpus (aka Alex Cournoyer)
+# https://github.com/acournoyer/iracer
+# 
+# Is was based on wii_remote.py
+# here is some credit where credit is due
+
+## wii_remote_1.py
+## Connect a Nintendo Wii Remote via Bluetooth
+## and  read the button states in Python.
+##
+## Project URL :
+## http://www.raspberrypi-spy.co.uk/?p=1101
+##
+## Author : Matt Hawkins
+## Date   : 30/01/2013
 
 # -----------------------
 # Import required Python libraries

@@ -17,6 +17,13 @@
 #
 # Note no device specific interfaces are called out you are free to use your own
 # device as long as you can create a socket in your chosen language.
+#
+#  Give some credit
+#  Ispired by Conor Oneill and his work with WII balance board
+# 
+# http://conoroneill.net/controlling-an-i-racer-rc-car-using-a-wii-balance-board-and-raspberry_pi/
+#
+# 
 
 
 import sys
